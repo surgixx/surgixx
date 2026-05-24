@@ -31,7 +31,7 @@ align="right"/>
 
 <h4 align="left">
 <font color="white">
-placeholder sentence<br>
+left left left<br>
 placeholder sentence<br>
 placeholder sentence<br>
 placeholder sentence
@@ -40,7 +40,7 @@ placeholder sentence
 
 <h4 align="right">
 <font color="white">
-placeholder sentence<br>
+right right right<br>
 placeholder sentence<br>
 placeholder sentence
 </font>
@@ -61,7 +61,7 @@ align="center"/>
 
 <h6 align="center">
 <font color="white">
-placeholder sentence<br>
+left left<br>
 placeholder sentence<br>
 placeholder sentence
 </font>
@@ -73,7 +73,7 @@ placeholder sentence
 
 <h4 align="right">
 <font color="white">
-placeholder sentence<br>
+right right right<br>
 placeholder sentence<br>
 placeholder sentence<br>
 placeholder sentence
@@ -84,7 +84,7 @@ placeholder sentence
 
 <h4 align="left">
 <font color="white">
-placeholder sentence<br>
+left left left<br>
 placeholder sentence<br>
 placeholder sentence<br>
 placeholder sentence<br>

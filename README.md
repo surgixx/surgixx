@@ -27,7 +27,6 @@ placeholder sentence ⭑ placeholder sentence ⭑ placeholder sentence
 <img src="PLACE HOLDER"
 height="400"
 align="right"/>
-<br>
 
 <h4 align="left">
 <font color="white">
